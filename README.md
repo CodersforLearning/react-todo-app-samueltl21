@@ -4,12 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # 1st thing to do after cloning to your computer
 ## NPM (node package manager) method
-Run `npm -v` to ensure npm (node package manager) is installed.
-Run `npm install` to install all packages.
+Run `npm -v` to ensure npm (node package manager) is installed. 
+
+Run `npm install` to install all packages. 
 
 ## Yarn method (alternative to using NPM)
-Run `yarn -v` to ensure yarn is installed (alternative to npm).
-Run `yarn` to install all packages.
+Run `yarn -v` to ensure yarn is installed (alternative to npm). 
+
+Run `yarn` to install all packages. 
 
 ## Available Scripts
 
