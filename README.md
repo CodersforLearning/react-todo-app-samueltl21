@@ -3,21 +3,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # 1st thing to do after cloning to your computer
-## NPM (node package manager) method
-Run `npm -v` to ensure npm (node package manager) is installed. 
 
-Run `npm install` to install all packages. 
+## NPM (node package manager) method
+
+Run `npm -v` to ensure npm (node package manager) is installed.
+
+Run `npm install` to install all packages.
 
 ## Yarn method (alternative to using NPM)
-Run `yarn -v` to ensure yarn is installed (alternative to npm). 
 
-Run `yarn` to install all packages. 
+Run `yarn -v` to ensure yarn is installed (alternative to npm).
+
+Run `yarn` to install all packages.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start` OR `npm start`
+### `yarn dev` OR `npm run dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
